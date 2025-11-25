@@ -1,1 +1,1 @@
-# practica.2
+# ejemplo.2
